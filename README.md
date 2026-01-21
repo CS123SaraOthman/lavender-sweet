@@ -40,7 +40,7 @@ Manage products, edit details, or remove items from the store.
 ![Control Panel](Control Panel.png.png)
 
 
-📄 [Project Report](Lavender report .docx)
+📄 [Project Report](Lavender report .docx )
 ## 🗂 Project Structure
 
 - **PHP Pages:** All backend functionality (cart, checkout, products, user profiles, etc.)
