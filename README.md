@@ -8,7 +8,7 @@
 
 ### 🏠 Home Page
 The main landing page of Lavender Sweet showcasing featured products and promotions.
-![Home Page](Home.png)
+![Home Page](Home.png.png)
 
 ### ℹ️ About Page
 Learn more about the brand and the story behind Lavender Sweet.
@@ -28,16 +28,16 @@ Enter your shipping information and complete the purchase process.
 
 ### ✅ Order Success
 Confirmation page displayed after successfully placing an order.
-![Order Success](order_success.png)
+![Order Success](order_success.png.png)
 
 ### 👤 Signup & Login
 User authentication pages for signing up or logging into the website.
-![Signup Page &  Login Page ](signup&login.png)
+![Signup Page &  Login Page ](signup&login.png.png)
 
 
 ### 🛠 Admin Control Panel
 Manage products, edit details, or remove items from the store.
-![Control Panel](Control Panel.png)
+![Control Panel](Control Panel.png.png)
 
 ## 🗂 Project Structure
 
