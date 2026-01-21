@@ -48,6 +48,7 @@ Manage products, edit details, or remove items from the store.
 
 ---
 
+
 ## 🚀 How to Run
 
 1. Place the project folder inside `htdocs` (XAMPP)
